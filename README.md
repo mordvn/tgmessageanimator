@@ -2,6 +2,8 @@
 
 A Telegram bot that creates interactive animated messages with various effects like typing animations, timers, scrolling ads, and FBI seizure notices.
 
+<img src="images/example.png" alt="Example Image" width="300">
+
 ## Features
 
 - **Typing Animation**: Simulates real-time typing with a blinking cursor

@@ -13,8 +13,8 @@ load_dotenv()
 router = Router(name=__name__)
 lock = asyncio.Lock()
 
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO)
 
 FBI_BANNER = [
     "🌎\n\n     FBI\nTHIS SITE HAS BEEN SEIZED",
