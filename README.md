@@ -1,4 +1,4 @@
-# UI Message Animator for Telegram
+# TG Message Animator
 
 A Telegram bot that creates interactive animated messages with various effects like typing animations, timers, scrolling ads, and FBI seizure notices.
 
@@ -23,8 +23,8 @@ A Telegram bot that creates interactive animated messages with various effects l
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/uimessageanimator.git
-cd uimessageanimator
+git clone https://github.com/mordvn/tgmessageanimator.git
+cd tgmessageanimator
 ```
 
 2. Install dependencies:
@@ -76,8 +76,12 @@ uv run python3 main.py
   - Displays an animated FBI seizure notice
   - Optional duration parameter (default: 30 seconds)
   
-## Examples
+### Examples
 - .type Hello, I'm typing this message in real-time!
 - .timer "Coffee Break" 15m
 - .ad Special offer today only! 1m 30ch
 - .fbi 2m
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
