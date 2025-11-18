@@ -54,7 +54,7 @@ BOT_TOKEN=your_bot_token_here
 Start the bot:
 
 ```bash
-uv run python3 main.py
+uv run python3 src/main.py
  ```
 
 ### Available Commands
