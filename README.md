@@ -15,7 +15,7 @@ A Telegram bot that creates interactive animated messages with various effects l
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3
 - Telegram Premium account
 - Bot with Business mode enabled
 
